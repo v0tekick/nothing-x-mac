@@ -1,0 +1,10 @@
+.DS_Store
+/build/
+/DerivedData/
+xcuserdata/
+*.xcuserstate
+*.apk
+*.xapk
+*.ipa
+*.dmg
+*.pkg
