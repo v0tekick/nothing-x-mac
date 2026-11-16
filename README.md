@@ -33,3 +33,5 @@ The source tree includes the Swift code, Xcode project, device catalog, and orig
 Bluetooth protocol references include [ear-web](https://github.com/radiance-project/ear-web), [Nothing X Mac protocol notes](https://github.com/Senooy/nothing-x-mac/blob/main/Protocol.md), and [NT Link hardware captures](https://github.com/ncr/omarchy-headphones/blob/main/PROTOCOL.md#nothing-nt-link--the-nothing-x-protocol-on-rfcomm-channel-15-or-28).
 
 The source code is distributed under the [GNU GPL v3](LICENSE). Nothing and CMF product names identify compatible devices. This project is independent of Nothing Technology Limited.
+
+*Tested only on MacBook Air m1 with CMF Buds Pro 2, Nothing Ear (2024) and Nothing Headphone 1. Other devices weren't available for the test, report compatibility in Issues*
